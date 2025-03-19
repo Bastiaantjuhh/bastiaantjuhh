@@ -1,0 +1,34 @@
+name: Cronjob
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cronjob:
+    name: Update this repo
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - uses: dcodeIO/setup-node-nvm@master
+        with:
+            node-version: 23.7
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Running app.js
+        run: node app.js
+
+      - name: Activity update
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          MAX_LINES: 5
