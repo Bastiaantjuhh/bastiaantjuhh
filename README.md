@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🤯 404 this message is not found.
+🍎 Designer and Developer with a passion for Apple products.
 
 <!--✏️ **Blog Posts**-->
 
@@ -24,4 +24,4 @@
 
 🕒 **Last Update**
 
-21-03-2025 01:20:16 UTC
+21-03-2025 04:20:24 UTC
