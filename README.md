@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌍 Making the internet a better place, one pull request at a time.
+😎 sudo rm -rf / --no-preserve-root
 
 <!--✏️ **Blog Posts**-->
 
@@ -24,4 +24,4 @@
 
 🕒 **Last Update**
 
-21-03-2025 14:11:40 UTC
+21-03-2025 14:12:33 UTC
