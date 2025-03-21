@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🐳 Dockerizing the world, one piece at a time.
+💩 Amateurs be like: Don't respect code license and attribution requirements.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-21-03-2025 18:53:40 UTC
+21-03-2025 20:18:40 UTC
