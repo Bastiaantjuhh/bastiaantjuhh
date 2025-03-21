@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🍎 Designer and Developer with a passion for Apple products.
+⚙️ Code is my second language, but debugging? That’s an art.
 
 <!--✏️ **Blog Posts**-->
 
@@ -24,4 +24,4 @@
 
 🕒 **Last Update**
 
-21-03-2025 04:20:24 UTC
+21-03-2025 08:21:41 UTC
