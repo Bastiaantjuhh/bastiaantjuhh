@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-😎 sudo rm -rf / --no-preserve-root
+🔒 Encrypting everything, because privacy is the new black.
 
 <!--✏️ **Blog Posts**-->
 
@@ -24,4 +24,4 @@
 
 🕒 **Last Update**
 
-21-03-2025 14:12:33 UTC
+21-03-2025 14:13:18 UTC
