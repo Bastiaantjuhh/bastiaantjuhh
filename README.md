@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-📦 Packaging my code like it’s Christmas morning 🎁.
+🐳 Dockerizing the world, one piece at a time.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-21-03-2025 16:21:32 UTC
+21-03-2025 18:53:40 UTC
